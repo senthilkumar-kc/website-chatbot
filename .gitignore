@@ -1,0 +1,16 @@
+/chatbot-backend/node_modules
+/chatbot-backend/public/hot
+/chatbot-backend/public/storage
+/chatbot-backend/storage/*.key
+/chatbot-backend/vendor
+/chatbot-backend/.composer.lock
+chatbot-backend/.env
+chatbot-backend/.env.backup
+chatbot-backend/.phpunit.result.cache
+chatbot-backend/docker-compose.override.yml
+chatbot-backend/Homestead.json
+chatbot-backend/Homestead.yaml
+chatbot-backend/npm-debug.log
+chatbot-backend/yarn-error.log
+/chatbot-backend/.idea
+/chatbot-backend/.vscode
